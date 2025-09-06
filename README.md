@@ -6,9 +6,7 @@ It highlights my skills, projects, experience, and education in **Data Analysis*
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://YOUR_USERNAME.github.io/portfolio/)  
-*(Replace `YOUR_USERNAME` with your GitHub username)*
-
+🔗 [View Portfolio](https://YOUR_boody1911.github.io/portfolio/)  
 ---
 
 ## 📂 Sections in the Portfolio
