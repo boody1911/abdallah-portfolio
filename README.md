@@ -6,7 +6,8 @@ It highlights my skills, projects, experience, and education in **Data Analysis*
 ---
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](https://YOUR_boody1911.github.io/portfolio/)  
+🔗 [View Portfolio](https://boody1911.github.io/abdallah-portfolio/
+)  
 ---
 
 ## 📂 Sections in the Portfolio
